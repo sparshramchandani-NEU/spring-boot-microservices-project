@@ -1,0 +1,7 @@
+/Users/sparshramchandani/Downloads/spring-boot-microservices-master/inventory-service/src/main/java/com/programmingtechie/inventoryservice/InventoryServiceApplication.java
+/Users/sparshramchandani/Downloads/spring-boot-microservices-master/inventory-service/src/main/java/com/programmingtechie/inventoryservice/service/InventoryService.java
+/Users/sparshramchandani/Downloads/spring-boot-microservices-master/inventory-service/src/main/java/com/programmingtechie/inventoryservice/model/Inventory.java
+/Users/sparshramchandani/Downloads/spring-boot-microservices-master/inventory-service/src/main/java/com/programmingtechie/inventoryservice/dto/InventoryResponse.java
+/Users/sparshramchandani/Downloads/spring-boot-microservices-master/inventory-service/src/main/java/com/programmingtechie/inventoryservice/controller/InventoryController.java
+/Users/sparshramchandani/Downloads/spring-boot-microservices-master/inventory-service/src/main/java/com/programmingtechie/inventoryservice/util/DataLoader.java
+/Users/sparshramchandani/Downloads/spring-boot-microservices-master/inventory-service/src/main/java/com/programmingtechie/inventoryservice/repository/InventoryRepository.java

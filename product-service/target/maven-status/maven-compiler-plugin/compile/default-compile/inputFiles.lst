@@ -1,0 +1,8 @@
+/Users/sparshramchandani/Downloads/spring-boot-microservices-master/product-service/src/main/java/com/programmingtechie/productservice/controller/ProductController.java
+/Users/sparshramchandani/Downloads/spring-boot-microservices-master/product-service/src/main/java/com/programmingtechie/productservice/dto/ProductRequest.java
+/Users/sparshramchandani/Downloads/spring-boot-microservices-master/product-service/src/main/java/com/programmingtechie/productservice/ProductServiceApplication.java
+/Users/sparshramchandani/Downloads/spring-boot-microservices-master/product-service/src/main/java/com/programmingtechie/productservice/service/ProductService.java
+/Users/sparshramchandani/Downloads/spring-boot-microservices-master/product-service/src/main/java/com/programmingtechie/productservice/model/Product.java
+/Users/sparshramchandani/Downloads/spring-boot-microservices-master/product-service/src/main/java/com/programmingtechie/productservice/dto/ProductResponse.java
+/Users/sparshramchandani/Downloads/spring-boot-microservices-master/product-service/src/main/java/com/programmingtechie/productservice/repository/ProductRepository.java
+/Users/sparshramchandani/Downloads/spring-boot-microservices-master/product-service/src/main/java/com/programmingtechie/productservice/util/DataLoader.java
